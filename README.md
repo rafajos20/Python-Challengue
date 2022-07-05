@@ -1,6 +1,6 @@
 # Overview of Election Audit
 
-## * 1. The Purpose:
+## 1. The Purpose:
 The purpose of this audit is to collaborate with a Colorado Board of Elections employee to obtain the results of recent congressional elections. He must obtain the necessary information from the database with all the votes and determine the winner, number of votes, county with the largest number of votes, percentage, and final number of votes for each candidate. 
 
 ## 2.	Election-Audit Results: 
